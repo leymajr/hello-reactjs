@@ -1,0 +1,15 @@
+.TodoItem{
+    text-align: center;
+    font-family: "tahoma";
+    font-weight: 400;
+    color: #4d4d4d;
+}
+
+.TodoItem-completed{
+    text-align: center;
+    font-family: "tahoma";
+    font-weight: 400;
+    color: #4d4d4d;
+    text-decoration: line-through;
+    opacity: .3;
+}
